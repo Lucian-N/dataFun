@@ -28,6 +28,6 @@ class(my.named.list[['sample_vec']])
 # Combine lists in another list
 double.list <- c(my.named.list, my.named.list)
 double.list
-
+# Determine what is contained within lists
 str(double.list)
 str(my.named.list)
